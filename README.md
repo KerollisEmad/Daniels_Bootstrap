@@ -5,7 +5,7 @@
 
 ### 🧠 Description  
 **Daniels** is a responsive **personal portfolio website** built using **HTML, CSS, and Bootstrap**.  
-It showcases modern design, smooth layout, and elegant responsiveness — perfect for personal branding and web presentation.
+It showcases a clean, modern design and a smooth layout — perfect for personal branding and presenting web projects.
 
 ---
 
@@ -14,7 +14,7 @@ It showcases modern design, smooth layout, and elegant responsiveness — perfec
 ✅ Clean and Modern Layout  
 ✅ Built with Bootstrap Grid System  
 ✅ Sections for About, Services, Portfolio, and Contact  
-✅ Smooth Scroll & Animation  
+✅ Smooth Scroll & Animations  
 
 ---
 
@@ -26,7 +26,7 @@ It showcases modern design, smooth layout, and elegant responsiveness — perfec
 ---
 
 ### 🌐 Live Demo  
-🔗 [**Daniels Website**](kerollisemad.github.io/Daniels_Bootstrap/)
+🔗 [**Daniels Website**](https://kerollisemad.github.io/Daniels_Bootstrap/)
 
 ---
 
