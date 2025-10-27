@@ -1,0 +1,36 @@
+@media (min-width: 1400px) {
+  .container,
+  .container-md {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+  .nav-item {
+    font-size: 14px;
+    margin: 0px 20px 0;
+    height: 60px;
+  }
+  .navbar-collapse {
+        border: none;
+        margin: 0;
+        padding: 0;
+        
+}
+}
+
+/* ~---------------> Header */
+
